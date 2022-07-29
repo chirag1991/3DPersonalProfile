@@ -5,8 +5,7 @@
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview",
-    "deploy": "gh-pages -d dist" 
-
+    "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
     "vite": "^2.3.0"
@@ -14,5 +13,17 @@
   "dependencies": {
     "gh-pages": "^4.0.0",
     "three": "^0.128.0"
-  }
+  },
+  "description": "I made this using Three JS",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chirag1991/3DPersonalProfile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chirag1991/3DPersonalProfile/issues"
+  },
+  "homepage": "https://github.com/chirag1991/3DPersonalProfile#readme"
 }
